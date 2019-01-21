@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/lge/hammerhead" 
+           name="android_device_lge_hammerhead" 
+           remote="los" 
+           revision="cm-14.1" />
+  <project path="kernel/lge/hammerhead" 
+           name="android_kernel_lge_hammerhead" 
+           remote="los" 
+           revision="cm-14.1" />
+  <project path="vendor/lge" 
+           name="proprietary_vendor_lge" 
+           remote="them" 
+           revision="cm-14.1" />
+</manifest>
